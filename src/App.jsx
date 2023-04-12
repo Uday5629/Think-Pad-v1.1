@@ -42,7 +42,6 @@ function App() {
 
   return (
     <div>
-    <div ></div>
     <Router>
     <Navbar title="ThinkPad 1.0" mode={mode} toggle={toggle}  />
     <Alert alert={alert}/>
